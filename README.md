@@ -1,4 +1,5 @@
-# 🌸 Hi, I'm fonnnu — a curious coder & grad student on a full-stack journey!
+# 🌸 Hi, I'm fonnnu 
+— a curious coder & grad student on a full-stack journey!
 
 🍀 What I’m building:
 - 🌱 A little farm management app using HTML/CSS/JavaScript + Firebase
